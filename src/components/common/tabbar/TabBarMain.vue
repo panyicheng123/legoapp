@@ -44,5 +44,6 @@
     left: 0;
     right: 0;
     color: black;
+    z-index: 1;
   }
 </style>
